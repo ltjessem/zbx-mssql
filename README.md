@@ -1,12 +1,3 @@
-# Update - 2019-05-28
-Moved to another company with no Zabbix and/or MS Sql in its environment, hence archiving the repo.
-
-
-# TODO
--Add port number.
-
--Test with MS SQL 2017 on Windows and Linux.
-
 # zbx-mssql
 
 Zabbix Template for monitoring and collecting Microsoft SQL Server statistics.
